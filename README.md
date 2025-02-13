@@ -26,7 +26,7 @@ Un CV interactif et dynamique qui reflète mes compétences techniques et mon pa
 
 ## 📈 Mes stats GitHub
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=rigelcodjia&show_icons=true&theme=radical)
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Rigel16&show_icons=true&theme=radical)
 
 ---
 
