@@ -66,7 +66,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Rigel16/Rigel16/raw/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rigel16/Rigel16/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 ---
