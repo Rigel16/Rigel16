@@ -54,14 +54,14 @@
 <div align="center">
   
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Rigel16&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Rigel16&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
   
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rigel16&show_icons=true&theme=radical&cache_seconds=1800" alt="Stats Rigel16" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rigel16&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Langs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rigel16&show_icons=true&theme=radical&count_private=true" alt="Stats Rigel16" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rigel16&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
   </a>
   
 </div>
