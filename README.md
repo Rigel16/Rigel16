@@ -48,17 +48,20 @@
 
 ---
 
+
 ## 📊 Analytics & Performance
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rigel16&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Rigel16&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
   
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rigel16&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Stats Rigel16" height="180" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rigel16&layout=compact&theme=radical&langs_count=8" alt="Top Langs" height="180" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rigel16&show_icons=true&theme=radical&count_private=true" alt="Stats Rigel16" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rigel16&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
   </a>
   
 </div>
